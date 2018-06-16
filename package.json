@@ -1,0 +1,15 @@
+{
+  "name":         "PostgreSQL",
+  "version":      "0.1",
+  "description":  "Io binding for PostgreSQL.",
+  "author":       "",
+  "website":      "http://PostgreSQL-project.org/",
+  "readme":       "README.md",
+  "protos":       ["PostgreSQL"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": ["https://github.com/IoLanguage/SqlDatabase.git"]
+  }
+}
